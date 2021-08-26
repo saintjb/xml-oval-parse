@@ -1,0 +1,666 @@
+<platform>Microsoft Windows Server 2008</platform>
+<platform>Microsoft Windows Server 2016</platform>
+<platform>Microsoft Windows Server 2012 R2</platform>
+<platform>Microsoft Windows Server 2019</platform>
+<platform>Microsoft Windows Server 2003</platform>
+<platform>Microsoft Windows Vista</platform>
+<platform>Microsoft Windows XP</platform>
+<platform>Microsoft Windows 7</platform>
+<platform>Microsoft Windows Server 2008 R2</platform>
+<platform>Microsoft Windows 10</platform>
+<platform>Microsoft Windows 8.1</platform>
+<platform>Microsoft Windows Server 2012</platform>
+<platform>Microsoft Windows 8</platform>
+<platform>Microsoft Windows 2000</platform>
+-------------------------------------------------------------------------
+<product>McAfee Endpoint Security Threat Prevention</product>
+<product>Microsoft PowerPoint 2013</product>
+<product>Microsoft Visual Studio Team Foundation Server</product>
+<product>rack</product>
+<product>Adobe Flash Player ESR</product>
+<product>Siemens SINEMA Server</product>
+<product>7-Zip</product>
+<product>VMWare Tools</product>
+<product>IcedTea-Web</product>
+<product>K7 Antivirus</product>
+<product>urllib3</product>
+<product>Microsoft .NET Framework 4.7.2</product>
+<product>MySQL Server 5.7</product>
+<product>Adobe Acrobat Reader 2017</product>
+<product>MySQL Server 5.5</product>
+<product>curlrequest</product>
+<product>Microsoft Exchange Server 2010</product>
+<product>Microsoft .NET Framework 3.5.1</product>
+<product>VMware Horizon Connection Server</product>
+<product>Squid</product>
+<product>Oracle Java SE Runtime Environment 6</product>
+<product>IBM HTTP Server</product>
+<product>FabulaTech USB for Remote Desktop (Server)</product>
+<product>Kaspersky Anti-Ransomware Tool</product>
+<product>Adobe DNG Converter</product>
+<product>paramiko</product>
+<product>Microsoft OneNote 2010</product>
+<product>Mitsubishi E-Designer</product>
+<product>Microsoft SharePoint Foundation 2010</product>
+<product>Pidgin</product>
+<product>Microsoft Lync 2010</product>
+<product>Huawei PC Manager</product>
+<product>Siemens SIMATIC STEP 7</product>
+<product>Check Point ZoneAlarm Free Firewall</product>
+<product>PowerChute Business Edition Agent</product>
+<product>Microsoft Office Compatibility Pack</product>
+<product>Microsoft Windows Media Center</product>
+<product>Oracle PeopleSoft PeopleTools</product>
+<product>Intel VTune Amplifier</product>
+<product>Microsoft Project 2010</product>
+<product>Intel Omni-Path Fabric Manager GUI</product>
+<product>Microsoft Office 2007</product>
+<product>Phoenix Contact Automationworx Software Suite</product>
+<product>McAfee Agent</product>
+<product>jquery</product>
+<product>Siemens SIMATIC WinCC</product>
+<product>Easy XML Editor</product>
+<product>Adobe XD</product>
+<product>gunicorn</product>
+<product>ABB Panel Builder 600</product>
+<product>IBM WebSphere Application Server</product>
+<product>Siemens LOGO! Soft Comfort</product>
+<product>Oracle WebLogic Server</product>
+<product>active-support</product>
+<product>IBM WebSphere Portal Express</product>
+<product>Microsoft Project 2007</product>
+<product>log4j-jars</product>
+<product>Palo Alto Networks GlobalProtect Agent</product>
+<product>nodegit</product>
+<product>McAfee Solidifier</product>
+<product>Apache SpamAssassin</product>
+<product>Microsoft Publisher 2013</product>
+<product>Adobe ColdFusion 11</product>
+<product>MySQL Server 8.0</product>
+<product>Nitro Pro</product>
+<product>MongoDB</product>
+<product>Microsoft Exchange Server 2016</product>
+<product>puppeteer</product>
+<product>Netwide Assembler</product>
+<product>Microsoft Project Server 2010</product>
+<product>FlexNet Publisher</product>
+<product>Kaspersky Anti-Virus</product>
+<product>Microsoft Active Directory Federation Services</product>
+<product>Rockwell Automation Integrated Architecture Builder</product>
+<product>octavia</product>
+<product>VMware Player</product>
+<product>ansible</product>
+<product>Microsoft .NET Core Runtime</product>
+<product>ClamAV</product>
+<product>Microsoft Security Essentials</product>
+<product>console-io</product>
+<product>LibPng</product>
+<product>PuTTY</product>
+<product>Microsoft PowerPoint 2019</product>
+<product>Microsoft Visual Studio Team Foundation Server 2015</product>
+<product>umount</product>
+<product>VirtualBox 6.0</product>
+<product>Apache Tomcat</product>
+<product>Microsoft Internet Explorer 6</product>
+<product>Microsoft .NET Framework 1.1</product>
+<product>Adobe Acrobat 2020</product>
+<product>Intel Processor Diagnostic Tool</product>
+<product>mongo-express</product>
+<product>Microsoft PowerShell Core</product>
+<product>Microsoft Lync Basic 2013</product>
+<product>VMware Workstation</product>
+<product>SourceTree</product>
+<product>Microsoft .NET Framework 4.6.2</product>
+<product>Microsoft Office Access 2007</product>
+<product>Oracle Java SE Development Kit 13</product>
+<product>Java Development Kit 1.6</product>
+<product>werkzeug</product>
+<product>Apple iCloud (Microsoft Store)</product>
+<product>Microsoft InfoPath 2010</product>
+<product>MobaXterm</product>
+<product>VMware Horizon Client</product>
+<product>VBScript 5.8</product>
+<product>Microsoft PowerPoint Viewer 2010</product>
+<product>manila</product>
+<product>Dr.Web Enterprise Security Suite</product>
+<product>R for Windows</product>
+<product>Microsoft Visual Studio 2019</product>
+<product>Mumble</product>
+<product>Microsoft InfoPath 2013</product>
+<product>Bitdefender Antivirus Free</product>
+<product>MDS PulseNET</product>
+<product>sanitize</product>
+<product>HP System Management Homepage</product>
+<product>NASM</product>
+<product>activejob</product>
+<product>Microsoft PowerPoint 2007</product>
+<product>Microsoft Excel 2013</product>
+<product>Quick Heal Internet Security</product>
+<product>Honeywell MatrikonOPC Explorer</product>
+<product>Intel SCS Discovery</product>
+<product>SCADA LAquis</product>
+<product>Huawei HiSuite</product>
+<product>Secret Net 7</product>
+<product>i18n</product>
+<product>Intel Security True Key</product>
+<product>actionview</product>
+<product>bootstrap4</product>
+<product>HP Intelligent Management Center</product>
+<product>Siemens SIMATIC TIA Administrator</product>
+<product>netty-jars</product>
+<product>Microsoft Visual C++ 2010 Redistributable Package</product>
+<product>bson</product>
+<product>Acronis True Image</product>
+<product>McAfee Endpoint Security Web Control</product>
+<product>Micro Focus Rumba</product>
+<product>Microsoft Visual Studio Team Foundation Server 2012</product>
+<product>Adobe Acrobat Reader 2020</product>
+<product>Skype for Business Server 2019</product>
+<product>Microsoft Project 2016</product>
+<product>Microsoft .NET Framework 4.8</product>
+<product>jquery-rails</product>
+<product>Microsoft Silverlight 5</product>
+<product>Video Insight IP Enterprise Server</product>
+<product>Intel Processor Identification Utility</product>
+<product>Microsoft SharePoint Server 2007</product>
+<product>Microsoft Visio 2007</product>
+<product>Microsoft Internet Explorer 7</product>
+<product>Cisco Industrial Network Director</product>
+<product>Rapid7 Metasploit</product>
+<product>Microsoft Visual Studio Team Foundation Server 2018</product>
+<product>Schneider Electric CitectSCADA</product>
+<product>Redgate SQL Monitor</product>
+<product>Palo Alto Networks Traps</product>
+<product>Microsoft Internet Explorer 8</product>
+<product>Adobe After Effects</product>
+<product>Adobe Reader DC Classic</product>
+<product>Microsoft Lync 2010 Attendee</product>
+<product>Adobe Audition</product>
+<product>Kaspersky Security Center</product>
+<product>Adobe Acrobat 2017</product>
+<product>Microsoft Office 365</product>
+<product>UltraVNC</product>
+<product>Adobe ColdFusion 2018</product>
+<product>Microsoft Excel 2019</product>
+<product>Google Chrome</product>
+<product>Adobe ColdFusion 2016</product>
+<product>Kaspersky Total Security</product>
+<product>Microsoft Windows Defender</product>
+<product>Microsoft SQL Server Reporting Services</product>
+<product>Adobe Reader</product>
+<product>Ericom Access Server</product>
+<product>Oracle Java SE Runtime Environment 5</product>
+<product>NetVault Backup</product>
+<product>Adobe Media Encoder</product>
+<product>Guard NT 4.0</product>
+<product>Samsung Security Manager</product>
+<product>McAfee Client Proxy</product>
+<product>Oracle Java SE Development Kit 6</product>
+<product>Microsoft PowerPoint 2010</product>
+<product>Brocade Network Advisor</product>
+<product>Microsoft .NET Framework 4.7</product>
+<product>pouchdb</product>
+<product>adm-zip</product>
+<product>Microsoft Visio 2016</product>
+<product>plone</product>
+<product>OpenSSL</product>
+<product>IBM Tivoli Storage FlashCopy Manager for VMware</product>
+<product>GraphicsMagick</product>
+<product>Schneider Electric Easergy Builder</product>
+<product>Dropbox</product>
+<product>Microsoft Visio Viewer 2010</product>
+<product>nltk</product>
+<product>Microsoft Visual Studio 2015</product>
+<product>Kaspersky Secure Connection</product>
+<product>Ghostscript</product>
+<product>Autodesk Design Review</product>
+<product>Adobe Acrobat DC Classic</product>
+<product>Schneider Electric EcoStruxure Operator Terminal Expert</product>
+<product>Microsoft XML Core Services 3</product>
+<product>Rockwell Automation RSLinx Classic</product>
+<product>Kaspersky Security Center Web Console</product>
+<product>HP Support Assistant</product>
+<product>npm</product>
+<product>Microsoft ASP.NET Core</product>
+<product>Microsoft Outlook 2007</product>
+<product>Accusoft ImageGear</product>
+<product>Microsoft Office SharePoint Server 2007</product>
+<product>Microsoft Live Meeting 2007</product>
+<product>Microsoft Office PowerPoint 2007</product>
+<product>VisualSVN Server</product>
+<product>MySQL Server</product>
+<product>electron</product>
+<product>Microsoft Internet Explorer 10</product>
+<product>Microsoft Visual Studio Team Foundation Server 2010</product>
+<product>Adobe Flash Player 15</product>
+<product>Go Programming Language</product>
+<product>Pepper Flash</product>
+<product>json</product>
+<product>Notepad++</product>
+<product>Adobe Character Animator</product>
+<product>IBM Tivoli Storage Manager FastBack</product>
+<product>Java Runtime Environment 1.5</product>
+<product>Wibu-Systems CodeMeter</product>
+<product>Trend Micro Deep Security Manager</product>
+<product>fstream</product>
+<product>Ruby</product>
+<product>bin-links</product>
+<product>sds</product>
+<product>Ipswitch WhatsUp Gold</product>
+<product>Microsoft Visual Basic 6.0</product>
+<product>Adobe Shockwave Player</product>
+<product>rack-protection</product>
+<product>Microsoft Excel Viewer 2007</product>
+<product>Tryton</product>
+<product>Microsoft Visual Studio 2008</product>
+<product>Microsoft SharePoint Server 2016</product>
+<product>dijit</product>
+<product>Pillow</product>
+<product>Oracle Java SE Development Kit 7</product>
+<product>Adobe Flash Player 16</product>
+<product>Cisco AnyConnect Secure Mobility Client</product>
+<product>thrift</product>
+<product>Microsoft .NET Core</product>
+<product>bootstrap-sass</product>
+<product>Microsoft Excel 2007</product>
+<product>Trend Micro Vulnerability Protection Manager</product>
+<product>Mozilla Thunderbird</product>
+<product>Check Point Endpoint Security</product>
+<product>Microsoft Outlook 2010</product>
+<product>ATLAS Server</product>
+<product>ecdsa</product>
+<product>Java Development Kit 1.7</product>
+<product>rubygems-update</product>
+<product>Splunk</product>
+<product>Java Runtime Environment 1.6</product>
+<product>Skype</product>
+<product>Oracle Commerce Platform</product>
+<product>Microsoft SQL Server 2016</product>
+<product>JRockit JRE</product>
+<product>Intel Unite Client</product>
+<product>Oracle Java SE Development Kit 12</product>
+<product>VMware App Volumes Manager</product>
+<product>Oracle Java SE Runtime Environment 8</product>
+<product>Adobe Acrobat DC Continuous</product>
+<product>Microsoft Lync 2013</product>
+<product>Eclipse Mosquitto</product>
+<product>ActiveX Control</product>
+<product>Razer Synapse</product>
+<product>Foxit Reader</product>
+<product>Kaspersky Security CenterWeb Console</product>
+<product>Microsoft Lync Server 2013</product>
+<product>loofah</product>
+<product>WinSCP</product>
+<product>Microsoft Word 2013</product>
+<product>Microsoft Internet Explorer 9</product>
+<product>Oracle Berkeley DB</product>
+<product>AVG Internet Security</product>
+<product>Network Time Protocol</product>
+<product>VMware vCenter Server</product>
+<product>Microsoft Excel 2010</product>
+<product>Microsoft Office Access 2013</product>
+<product>D-Link Central WiFi Manager</product>
+<product>Azure DevOps Server 2019</product>
+<product>Microsoft Internet Explorer 11</product>
+<product>AD Self Password Reset</product>
+<product>Microsoft SharePoint Server 2019</product>
+<product>Microsoft Infopath 2013</product>
+<product>Puppet</product>
+<product>HPE Universal CMDB Server</product>
+<product>Microsoft Project Server 2013</product>
+<product>Windows Admin Center</product>
+<product>SaltStack Salt</product>
+<product>Cisco Jabber</product>
+<product>Microsoft OneNote 2016</product>
+<product>Microsoft SQL Server 2017</product>
+<product>VBScript 5.7</product>
+<product>Opto 22 PAC Control</product>
+<product>Intel Smart Sound Technology</product>
+<product>Microsoft Remote Desktop Connection Manager</product>
+<product>Oracle Java SE Development Kit 8</product>
+<product>Docker for Windows</product>
+<product>Tibbo AggreGate</product>
+<product>Microsoft Project 2013</product>
+<product>Microsoft Visual C++ 2008 Redistributable Package</product>
+<product>Check Point ZoneAlarm Free Antivirus + Firewall</product>
+<product>Adobe Acrobat DC</product>
+<product>Microsoft Visual Studio Code</product>
+<product>Microsoft HEVC Video Extensions</product>
+<product>Microsoft .NET Framework 4.5</product>
+<product>Intel Optane DC Persistent Memory Module Management Software</product>
+<product>Windows Media Player 9</product>
+<product>InduSoft Web Studio</product>
+<product>Microsoft Visio 2013</product>
+<product>Quick Heal Total Security</product>
+<product>HPE Intelligent Management Center PLAT</product>
+<product>EKRA EKRASMS-SP</product>
+<product>Blender</product>
+<product>tar</product>
+<product>npm-programmatic</product>
+<product>JavaFX</product>
+<product>django</product>
+<product>twisted</product>
+<product>Microsoft Word 2019</product>
+<product>Microsoft Publisher 2010</product>
+<product>Fuji Electric V-Server</product>
+<product>McAfee VirusScan Enterprise</product>
+<product>targetcli-fb</product>
+<product>ZOHO ManageEngine ServiceDesk Plus</product>
+<product>Microsoft .NET Framework 4.0</product>
+<product>Confluence</product>
+<product>Apple iTunes</product>
+<product>Intel Active Management Technology</product>
+<product>python-gnupg</product>
+<product>Trend Micro Internet Security</product>
+<product>pulverizr</product>
+<product>VMWare Workstation</product>
+<product>Adobe Framemaker</product>
+<product>NordVPN</product>
+<product>Quick Heal AntiVirus Pro</product>
+<product>Microsoft Edge</product>
+<product>SCADA Web Server</product>
+<product>numpy</product>
+<product>Siemens SIMATIC WinCC Open Architecture</product>
+<product>Python</product>
+<product>lodash</product>
+<product>Adobe Illustrator</product>
+<product>Cisco Webex Teams</product>
+<product>Kaspersky Free</product>
+<product>Microsoft Outlook 2016</product>
+<product>HP Asset Manager</product>
+<product>McAfee Endpoint Security Platform</product>
+<product>lodash-rails</product>
+<product>Microsoft PowerPoint 2016</product>
+<product>Windows Media Player 10</product>
+<product>Kaspersky Security Cloud</product>
+<product>Windows Media Player 12</product>
+<product>OpenMPT</product>
+<product>Secret Net Studio</product>
+<product>Delta Electronics CNCSoft</product>
+<product>Schneider Electric SoMove</product>
+<product>Jenkins</product>
+<product>Schneider Electric Wonderware ArchestrA Logger</product>
+<product>Microsoft SharePoint Server 2010</product>
+<product>IBM Installation Manager</product>
+<product>Acrobat Reader 2017</product>
+<product>Cisco WebEx Productivity Tools</product>
+<product>NVIDIA GeForce Experience</product>
+<product>docker-compose-remote-api</product>
+<product>Java Development Kit 1.8</product>
+<product>Crowd</product>
+<product>Adobe Acrobat Reader 2015</product>
+<product>GP-Pro EX</product>
+<product>Cisco Webex Meetings Desktop App</product>
+<product>Oracle JavaFX</product>
+<product>Microsoft Office 2019</product>
+<product>Symantec Protection for SharePoint Servers</product>
+<product>Microsoft Office Visio Viewer 2007</product>
+<product>Microsoft Visual Studio Team Foundation Server 2013</product>
+<product>Siemens SIMATIC WinCC OA</product>
+<product>Git</product>
+<product>bleach</product>
+<product>Microsoft .NET Framework 3.5</product>
+<product>Microsoft Visual Studio 2012</product>
+<product>TeamViewer</product>
+<product>Dr.Web Enterprise Agent</product>
+<product>Microsoft Exchange Server 2019</product>
+<product>sinatra</product>
+<product>Intel ACU Wizard</product>
+<product>Cisco Immunet</product>
+<product>ImageMagick</product>
+<product>pdfinfojs</product>
+<product>Apple iCloud</product>
+<product>iArtist Lite</product>
+<product>Apache</product>
+<product>Microsoft Word 2016</product>
+<product>Microsoft Capicom</product>
+<product>OpenSSH</product>
+<product>Eurotherm GUIcon</product>
+<product>Microsoft OneDrive</product>
+<product>MySQL Connector/ODBC</product>
+<product>openoffice.org</product>
+<product>Advantech WebAccess</product>
+<product>Intel RAID Web Console</product>
+<product>Microsoft Word 2007</product>
+<product>pdf-image</product>
+<product>Microsoft SQL Server 2014</product>
+<product>pdfjs-dist</product>
+<product>puma</product>
+<product>S3 Browser</product>
+<product>IBM DB2</product>
+<product>MasterSCADA</product>
+<product>Mozilla Firefox ESR</product>
+<product>Schneider Electric SoMachine HVAC</product>
+<product>Microsoft Visio 2010</product>
+<product>Microsoft SQL Server 2008 R2</product>
+<product>PostgreSQL</product>
+<product>Adobe Dreamweaver</product>
+<product>Symantec Endpoint Protection 12 Client</product>
+<product>Expat XML Parser</product>
+<product>Opera Browser</product>
+<product>Intel Computing Improvement Program</product>
+<product>MediaArea MediaInfo</product>
+<product>Microsoft .NET Framework 3.0</product>
+<product>Adobe Bridge</product>
+<product>ProtonVPN</product>
+<product>Microsoft Office IME Japanese 2007</product>
+<product>utils-extend</product>
+<product>Microsoft Lync Server 2010</product>
+<product>McAfee Endpoint Security Firewall</product>
+<product>McAfee ePolicy Orchestrator</product>
+<product>HP Network Node Manager i</product>
+<product>Foxit Studio Photo</product>
+<product>Microsoft Office Online Server</product>
+<product>AmosConnect 8</product>
+<product>Firebird</product>
+<product>Dolibarr</product>
+<product>Oracle Java SE Development Kit 5</product>
+<product>Dell SonicWALL Universal Management Suite</product>
+<product>IBM Java</product>
+<product>MySQL Connector</product>
+<product>Microsoft Windows DVD Maker</product>
+<product>Microsoft Dynamics 365</product>
+<product>SAP BusinessObjects BI Platform</product>
+<product>Microsoft SQL Server Management Studio</product>
+<product>Microsoft Office Web Apps Server 2013</product>
+<product>MySQL Server 5.6</product>
+<product>Fortinet FortiClient</product>
+<product>Microsoft SharePoint Foundation 2013</product>
+<product>RubyGems</product>
+<product>Oracle Java SE Development Kit 14</product>
+<product>Adobe Acrobat</product>
+<product>Jenkins LTS</product>
+<product>gulp-scss-lint</product>
+<product>Microsoft Office Visio 2007</product>
+<product>Microsoft .NET Framework 4.6.1</product>
+<product>Microsoft SharePoint Server 2013</product>
+<product>neutron</product>
+<product>Microsoft .NET Framework 4.6</product>
+<product>Red Database</product>
+<product>nokogiri</product>
+<product>VLC media player</product>
+<product>PHP</product>
+<product>XMLBlueprint XML Editor</product>
+<product>VLC Media Player</product>
+<product>OpenVPN</product>
+<product>Adobe Photoshop</product>
+<product>sprockets</product>
+<product>Kaspersky Protection</product>
+<product>slyphon-log4j</product>
+<product>Microsoft SQL Server 2008</product>
+<product>tryton</product>
+<product>MySQL Cluster</product>
+<product>mini_magick</product>
+<product>Microsoft Visual Studio 2013</product>
+<product>Microsoft Visual Studio Team Foundation Server 2017</product>
+<product>Microsoft Visual Studio 2017</product>
+<product>VirtualBox</product>
+<product>MariaDB</product>
+<product>Microsoft InfoPath 2007</product>
+<product>Microsoft Publisher 2007</product>
+<product>Oracle Java SE Development Kit 11</product>
+<product>python-engineio</product>
+<product>NAVER Whale</product>
+<product>Schneider Electric EcoStruxure Machine Expert HVAC</product>
+<product>Dallas Lock 8.0 Client</product>
+<product>Unbound</product>
+<product>Microsoft Visual Studio .NET 2003</product>
+<product>Active Directory</product>
+<product>Microsoft .NET Framework 4.7.1</product>
+<product>Odoo</product>
+<product>Apache 2.2</product>
+<product>1C:Enterprise</product>
+<product>ESET NOD32 Antivirus</product>
+<product>Microsoft Windows Remote Desktop Connection 8.0</product>
+<product>django-allauth</product>
+<product>NetScaler Gateway Plug-in</product>
+<product>Microsoft Office Web Apps 2010</product>
+<product>VMware Remote Console</product>
+<product>Vim</product>
+<product>PRTG Network Monitor</product>
+<product>Node.js</product>
+<product>Symantec Endpoint Protection Client</product>
+<product>Linter Bastion</product>
+<product>Cisco WebEx Network Recording Player</product>
+<product>Apache 2.4</product>
+<product>Apache Subversion</product>
+<product>Mozilla Firefox</product>
+<product>Microsoft OneNote 2013</product>
+<product>Adobe Flash Player</product>
+<product>Microsoft live meeting 2007</product>
+<product>Intel Matrix Storage Manager</product>
+<product>Mozilla SeaMonkey</product>
+<product>passenger</product>
+<product>railties</product>
+<product>Veritas NetBackup</product>
+<product>Microsoft Office 2013</product>
+<product>Microsoft Visual C++ 2005 Redistributable Package</product>
+<product>Microsoft Office PowerPoint 2010</product>
+<product>Microsoft SQL Server 2012</product>
+<product>Wireshark</product>
+<product>Adobe AIR</product>
+<product>Intel Driver and Support Assistant</product>
+<product>Microsoft Office 2010</product>
+<product>cURL</product>
+<product>HPE Data Protector</product>
+<product>Oracle Java SE Runtime Environment 7</product>
+<product>Apple QuickTime</product>
+<product>QEMU</product>
+<product>Adobe InDesign</product>
+<product>PowerSCADA Expert</product>
+<product>Microsoft Forefront Security for SharePoint</product>
+<product>@sailshq/lodash</product>
+<product>pyspark</product>
+<product>Sigil</product>
+<product>Microsoft Live Meeting 2007 Add-In</product>
+<product>Microsoft Outlook 2019</product>
+<product>url-regex</product>
+<product>OpenOffice.org</product>
+<product>McAfee Total Protection</product>
+<product>Foxit PhantomPDF</product>
+<product>Microsoft .NET Framework 4.5.2</product>
+<product>Grafana</product>
+<product>Microsoft Exchange Server 2007</product>
+<product>Java Runtime Environment 1.8</product>
+<product>Microsoft Visual Studio 2010</product>
+<product>Delta Electronics CNCSoft ScreenEditor</product>
+<product>Cisco Energy Management</product>
+<product>qBittorrent</product>
+<product>KingSCADA</product>
+<product>Cisco WebEx Player</product>
+<product>SoftPLC</product>
+<product>JScript 5.7</product>
+<product>Apache HTTP Server</product>
+<product>Java Runtime Environment</product>
+<product>Microsoft Exchange Server 2013</product>
+<product>Microsoft Publisher 2016</product>
+<product>sqlalchemy</product>
+<product>Kaspersky Password Manager</product>
+<product>mysql-connector-python</product>
+<product>lxml</product>
+<product>Microsoft Word 2010</product>
+<product>pyyaml</product>
+<product>Java Development Kit</product>
+<product>Mozilla Seamonkey</product>
+<product>IBM WebSphere MQ</product>
+<product>pip</product>
+<product>Adobe Reader DC Continuous</product>
+<product>Symantec Protection Engine</product>
+<product>Opto 22 PAC Project</product>
+<product>IBM SPSS Statistics</product>
+<product>Adobe Acrobat 2015</product>
+<product>OpenAFS</product>
+<product>ironic-inspector</product>
+<product>Skype for Business 2016</product>
+<product>Rhino Software Serv-U</product>
+<product>xterm</product>
+<product>SolarWinds FSM Server</product>
+<product>Microsoft Office 2016</product>
+<product>dbus</product>
+<product>Microsoft .NET Framework 2.0</product>
+<product>minimist</product>
+<product>Suricata IDS/IPS</product>
+<product>Java Development Kit 1.5</product>
+<product>Kaspersky Internet Security</product>
+<product>JRockit JDK</product>
+<product>Microsoft Outlook 2013</product>
+<product>HDF5</product>
+<product>salt</product>
+<product>Adobe Connect 9 Add-in</product>
+<product>VirtualBox 6.1</product>
+<product>GStreamer</product>
+<product>Windows Media Player 11</product>
+<product>LibreOffice</product>
+<product>Microsoft .NET Framework 3.5 SP1</product>
+<product>WinRAR</product>
+<product>SaltStack</product>
+<product>handlebars</product>
+<product>Mercurial</product>
+<product>TP-Link EAP Controller</product>
+<product>Adobe Acrobat Reader DC</product>
+<product>Microsoft IIS 6.0</product>
+<product>Advantech WebAccess/HMI Designer</product>
+<product>Microsoft .NET Framework 4.5.1</product>
+<product>Microsoft Office OneNote 2007</product>
+<product>HP SiteScope</product>
+<product>Microsoft Office SharePoint Server 2010</product>
+<product>Microsoft Excel 2016</product>
+<product>Openfire</product>
+<product>ini-parser</product>
+<product>NVIDIA Graphics Driver</product>
+<product>JScript 5.8</product>
+<product>dojo</product>
+<product>Adobe Digital Editions</product>
+<product>Microsoft Visual Studio 2005</product>
+<product>IBM Lotus Domino</product>
+<product>Zoho ManageEngine Desktop Central</product>
+<product>Serv-U File Server</product>
+<product>Logitech Options</product>
+<product>Accord-Win64</product>
+<product>Tiny FTP Daemon</product>
+<product>Microsoft Office Access 2010</product>
+<product>Trend Micro OfficeScan</product>
+<product>Microsoft Azure Service Fabric SDK</product>
+<product>Java Runtime Environment 1.7</product>
+<product>Microsoft Windows Media Center TV Pack</product>
+<product>Trend Micro Worry-Free Business Security Service</product>
+<product>Intel PROSet/Wireless</product>
+<product>Lepide Active Directory Self Service</product>
+<product>Mozilla Thunderbird ESR</product>
+<product>Microsoft Azure Service Fabric</product>
+<product>Puppet Agent</product>
+<product>Intel Software Guard Extensions SDK</product>
+<product>Microsoft .NET Framework 3.0 SP2</product>
+<product>Microsoft Word Viewer</product>
+<product>JIRA</product>
+<product>VirtualBox 5.2</product>
+<product>Intel Graphics Driver</product>
+<product>UnZip</product>
+<product>Adobe ColdFusion 10</product>
+<product>Microsoft Powerpoint 2016</product>
+<product>Beckhoff TwinCAT</product>
+<product>Cisco WebEx Meeting Center</product>
+<product>bootstrap</product>
+<product>Wibu-Systems WibuKey</product>
+<product>Microsoft Office Access 2016</product>
+<product>Zoom</product>
